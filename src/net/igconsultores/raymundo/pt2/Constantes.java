@@ -8,7 +8,7 @@ public class Constantes {
 	public static final String keyPsw="psw";
 	public static final String keyUsr="usr";
 	public static final String keyDescripcion="desc";
-	public static final String keyCompañia="psw";
+	public static final String keyCompania="psw";
 	public static final String keyMuestreo="mues";
 	
 	//Coordenadas para escribir en XML
